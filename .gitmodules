@@ -1,0 +1,3 @@
+[submodule "SharpHelpers"]
+	path = SharpHelpers
+	url = https://github.com/rinoreji/SharpHelpers.git
